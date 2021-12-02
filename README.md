@@ -4,6 +4,8 @@
 
 This notes that I took for target detection with yolov5. In this project, blood cancer cells were detected.
 
+![prediction](https://github.com/safakgunes/Blood-Cancer-Detection-YOLOV5/blob/main/yolov5/runs/train/exp/val_batch1_pred.jpg?raw=true)
+
 
 ## Create an environment
 
